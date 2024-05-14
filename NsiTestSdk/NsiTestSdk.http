@@ -1,0 +1,6 @@
+@NsiTestSdk_HostAddress = http://localhost:5129
+
+GET {{NsiTestSdk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

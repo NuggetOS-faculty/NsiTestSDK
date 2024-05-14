@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9fmmIJ87FpV2F72FdJ6fDjzLda8IhA8xAByAzhGeHE8GbO55arLwPk2B0MzNDyKDRt/BQ0ZxS+w2KGNf5MS8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola\\RiderProjects\\NsiTestSdk\\NsiSdk\\NsiSdk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
